@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <span>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcvampire&theme=gruvbox&hide=html" />
 </span>
+
+- PGP Public Key: https://pgp.mit.edu/pks/lookup?search=quocanh96%40gmail.com&op=index
