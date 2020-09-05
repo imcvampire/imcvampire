@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-<span>
+<div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=imcvampire&count_private=true&show_icons=true&theme=gruvbox" />
-</span>
-<span>
+</div>
+<div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcvampire&theme=gruvbox&hide=html" />
-</span>
-
+</div>
 
 
 PGP Public Key: https://pgp.mit.edu/pks/lookup?search=quocanh96%40gmail.com&op=index
