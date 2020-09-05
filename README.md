@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <span>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=imcvampire&count_private=true&show_icons=true&theme=gruvbox" />
 </span>
@@ -22,4 +23,6 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcvampire&theme=gruvbox&hide=html" />
 </span>
 
-- PGP Public Key: https://pgp.mit.edu/pks/lookup?search=quocanh96%40gmail.com&op=index
+
+
+PGP Public Key: https://pgp.mit.edu/pks/lookup?search=quocanh96%40gmail.com&op=index
