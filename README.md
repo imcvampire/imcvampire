@@ -22,4 +22,4 @@
 <br>
 <br>
 
-PGP Public Key: https://keys.openpgp.org/vks/v1/by-fingerprint/7862C233175ECF367EC0B92C586A2DB4D1B7C36C
+PGP Public Key: 
