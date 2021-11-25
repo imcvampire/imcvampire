@@ -7,7 +7,7 @@
 ### 📊 GitHub Stats:
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=imcvampire&theme=gruvbox&show_icons=true&count_private=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=imcvampire&theme=gruvbox&show_icons=true&count_private=true&hide_border=true)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imcvampire&theme=monokai)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imcvampire&theme=monokai)
