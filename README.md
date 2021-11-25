@@ -7,41 +7,11 @@
 ### 📊 GitHub Stats:
 ---
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=imcvampire&count_private=true&show_icons=true&theme=gruvbox" />
-</div>
+![github stats](https://github-readme-stats.vercel.app/api?username=imcvampire&theme=gruvbox&show_icons=true&count_private=true)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcvampire&theme=gruvbox&hide=html" />
-</div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imcvampire&theme=monokai)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imcvampire&theme=monokai)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imcvampire&theme=monokai)
 
 ### 🔑 PGP Public Key:
 ---
