@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-### 🏆 GitHub Profile Trophy:
+### 🏆 Trophy:
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=imcvampire&theme=gruvbox&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📊 GitHub Stats:
+### 📊 Stats:
 ---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=imcvampire&theme=gruvbox&show_icons=true&count_private=true&hide_border=true)
