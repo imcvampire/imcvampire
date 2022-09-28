@@ -21,6 +21,11 @@
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imcvampire&theme=monokai)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imcvampire&theme=monokai)
 
+### 📛 Badges:
+---
+
+[![@imcvampire's Holopin board](https://holopin.io/api/user/board?user=imcvampire)](https://holopin.io/@imcvampire)
+
 ### 🔑 PGP Public Key:
 ---
 [2BEEBCDA289C8924CC3F176CF75CB68CF1C5AD3B](https://keys.openpgp.org/vks/v1/by-fingerprint/2BEEBCDA289C8924CC3F176CF75CB68CF1C5AD3B)
