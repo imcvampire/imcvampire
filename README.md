@@ -19,7 +19,6 @@
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imcvampire&theme=monokai)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imcvampire&theme=monokai)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imcvampire&theme=monokai)
 
 ### 📛 Badges:
 ---
