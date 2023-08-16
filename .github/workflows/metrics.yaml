@@ -28,6 +28,7 @@ jobs:
           user: imcvampire
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
           config_octicon: yes
           config_timezone: Europe/Helsinki
           config_twemoji: yes
