@@ -37,7 +37,8 @@ jobs:
           plugin_achievements_threshold: B
           plugin_fortune: yes
           plugin_habits: yes
-          plugin_habits_charts_type: classic
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: chartist
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
@@ -52,6 +53,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_ignored: html
           plugin_languages_limit: 8
+          plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
@@ -61,7 +63,12 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_year: current-year
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_types: commit
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_lines: 4
+          plugin_stackoverflow_lines_snippet: 2
+          plugin_stackoverflow_sections: answers-top, questions-recent
+          plugin_stackoverflow_user: 5328683
