@@ -3133,7 +3133,7 @@ I tried to read all the documents but can't find a way to add
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 22k out of 62.9m repositories</span>
+                                    <span class="gh">ranked 22k out of 56.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 2012 stars</div>
                             </div>
@@ -3261,7 +3261,7 @@ I tried to read all the documents but can't find a way to add
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 108k out of 125m users</span>
+                                    <span class="gh">ranked 115k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 88 users</div>
                             </div>
@@ -3496,7 +3496,7 @@ I tried to read all the documents but can't find a way to add
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Nov 2023, 14:53:47 (timezone Europe/Helsinki) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Nov 2023, 15:38:50 (timezone Europe/Helsinki) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
