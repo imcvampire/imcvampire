@@ -3131,7 +3131,7 @@ I tried to read all the documents but can't find a way to add
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 22.1k out of 58.8m repositories</span>
+                                    <span class="gh">ranked 22.1k out of 66.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 2012 stars</div>
                             </div>
@@ -3487,14 +3487,14 @@ I tried to read all the documents but can't find a way to add
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Nov 2023, 17:38:50 (timezone Europe/Helsinki) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Nov 2023, 18:43:26 (timezone Europe/Helsinki) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
