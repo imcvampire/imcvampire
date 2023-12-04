@@ -3018,7 +3018,7 @@ I tried to read all the documents but can't find a way to add
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 80.9k out of 125m users</span>
+                                    <span class="gh">ranked 80.9k out of 124m users</span>
                                 </div>
                                 <div class="text">Published 150 public repositories</div>
                             </div>
@@ -3125,7 +3125,7 @@ I tried to read all the documents but can't find a way to add
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 22.1k out of 60.5m repositories</span>
+                                    <span class="gh">ranked 22.1k out of 56.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 2012 stars</div>
                             </div>
@@ -3253,7 +3253,7 @@ I tried to read all the documents but can't find a way to add
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 118k out of 125m users</span>
+                                    <span class="gh">ranked 118k out of 124m users</span>
                                 </div>
                                 <div class="text">Followed by 87 users</div>
                             </div>
@@ -3481,14 +3481,14 @@ I tried to read all the documents but can't find a way to add
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Dec 2023, 11:38:55 (timezone Europe/Helsinki) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2023, 12:41:09 (timezone Europe/Helsinki) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
