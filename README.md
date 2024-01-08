@@ -8,19 +8,31 @@
 <a href="https://www.leetcode.com/imcvampire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imcvampire" height="30" width="40" /></a>
 </p>
 
-### 🏆 Trophy:
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=imcvampire&theme=gruvbox&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📊 Metrics:
----
-![Metrics](/github-metrics.svg)
-
-### 📛 Badges:
----
-
-[![@imcvampire's Holopin board](https://holopin.io/api/user/board?user=imcvampire)](https://holopin.io/@imcvampire)
 
 ### 🔑 PGP Public Key:
----
+
 [2BEEBCDA289C8924CC3F176CF75CB68CF1C5AD3B](https://keys.openpgp.org/vks/v1/by-fingerprint/2BEEBCDA289C8924CC3F176CF75CB68CF1C5AD3B)
+
+
+<details>
+  <summary>🏆 Trophy:</summary>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=imcvampire&theme=gruvbox&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</details>
+
+
+<details>
+  <summary>📊 Metrics:</summary>
+  
+![Metrics](/github-metrics.svg)
+
+</details>
+
+
+<details>
+  <summary>📛 Badges:</summary>
+  
+[![@imcvampire's Holopin board](https://holopin.io/api/user/board?user=imcvampire)](https://holopin.io/@imcvampire)
+
+</details>
