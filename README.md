@@ -5,7 +5,6 @@
 <a href="https://stackoverflow.com/users/5328683" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5328683" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nguyen-quoc-anh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyen-quoc-anh" height="30" width="40" /></a>
 <a href="https://dev.to/imcvampire" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imcvampire" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imcvampire" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imcvampire" height="30" width="40" /></a>
 </p>
 
 
