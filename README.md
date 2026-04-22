@@ -1,24 +1,5 @@
 ## Hi there 👋
 
-### Connect with me:
-
-<p align="left">
-  <a href="https://stackoverflow.com/users/5328683" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5328683" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/nguyen-quoc-anh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyen-quoc-anh" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/imcvampire" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imcvampire" height="30" width="40" />
-  </a>
-</p>
-
-### 🔑 PGP Public Key:
-
-[2BEEBCDA289C8924CC3F176CF75CB68CF1C5AD3B](https://keys.openpgp.org/vks/v1/by-fingerprint/2BEEBCDA289C8924CC3F176CF75CB68CF1C5AD3B)
-
-
 <details>
   <summary>🏆 Trophy:</summary>
   
