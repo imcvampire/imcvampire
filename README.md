@@ -3,7 +3,7 @@
 <details>
   <summary>🏆 Trophy:</summary>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=imcvampire&theme=gruvbox&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=imcvampire&theme=gruvbox&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
 
